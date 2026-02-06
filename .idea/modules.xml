@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Agenda Telefonica.iml" filepath="$PROJECT_DIR$/Agenda Telefonica.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Agenda.iml" filepath="$PROJECT_DIR$/Agenda.iml" />
+>>>>>>> 9d84a2aaea99ed07e92efc0be4b0f861e6666d35
     </modules>
   </component>
 </project>
