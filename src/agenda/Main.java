@@ -1,4 +1,5 @@
 package agenda;
+// Funcionalidad para crear contacto
 
 import java.util.Scanner;
 
